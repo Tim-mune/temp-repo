@@ -1,0 +1,10 @@
+
+const {john,peter}=require('./names')
+const sayHi=require('./utils')
+const data=require('./alternative')
+require('./6-mindGrenade')
+// // console.log(data)
+// // console.log(names)
+// sayHi('Tim')
+// sayHi(john)
+// sayHi(peter)
